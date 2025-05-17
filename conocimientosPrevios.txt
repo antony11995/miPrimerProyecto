@@ -7,3 +7,6 @@
     tecnología informática, programación para ciencia de datos con Python, Hadoop.
     y Spark, computación gráfica, sistemas empotrados y obicuos, sistemas inteligentes,
     y usabilidad. También desarrollo de aplicaciones móviles para Android.
+
+3. Lenguajes de programación con los que he trabajado: C, C#, C++, Java, Javascript,
+    PHP, Python. Bases de datos: SQL, Mysql, PostgreSQL.
