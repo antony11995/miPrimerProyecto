@@ -1,3 +1,9 @@
 1. He estudiado la carrera de ingeniería informática, con lo cual tengo conocimientos
     de Lógica, bases de datos, ciclo de vida de desarrollo de software, programación
     Lineal y orientada a objetos.
+
+2. He estudiado un Master en informática en la universidad de LLeida, con lo cual
+    he aprendido de Programación distribuida y paralela (HPC), administración de
+    tecnología informática, programación para ciencia de datos con Python, Hadoop.
+    y Spark, computación gráfica, sistemas empotrados y obicuos, sistemas inteligentes,
+    y usabilidad. También desarrollo de aplicaciones móviles para Android.
