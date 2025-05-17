@@ -1,3 +1,4 @@
 Objetivos para el Master en Desarrollo FullStack:
 
 1. Actualizar mis conocimientos previos en desarrollo Frontend.
+2. Fortalecer mis conocimientos en Desarrollo Backend.
