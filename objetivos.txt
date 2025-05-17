@@ -1,0 +1,3 @@
+Objetivos para el Master en Desarrollo FullStack:
+
+1. Actualizar mis conocimientos previos en desarrollo Frontend.
